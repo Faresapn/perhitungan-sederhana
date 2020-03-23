@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Aplikasi kecambah</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string-array name="data_sawit">
+        <item> Kelapa Sawit Dura</item>
+        <item>Kelapa Sawit Pisifera </item>
+        <item> Kelapa Sawit Tenera</item>
+        <item>Kelapa Sawit Nigrescens </item>
+        <item>Kelapa Sawit Virecens </item>
+        <item> Kelapa Sawit Albenscens </item>
+        <item> Kelapa Sawit DxP Langkat </item>
+        <item>Kelapa Sawit DxP Yangambi </item>
+        <item>Kelapa Sawit DxP PPKS 718 </item>
+        <item>Kelapa Sawit DxP DxP Avros </item>
+    </string-array>
+    <array name="image_sawit">
+        <item>@drawable/kelapasawit</item>
+        <item>@drawable/kelapasawit</item>
+        <item>@drawable/kelapasawit</item>
+        <item>@drawable/kelapasawit</item>
+        <item>@drawable/kelapasawit</item>
+        <item>@drawable/kelapasawit</item>
+        <item>@drawable/kelapasawit</item>
+        <item>@drawable/kelapasawit</item>
+        <item>@drawable/kelapasawit</item>
+        <item>@drawable/kelapasawit</item>
+
+    </array>
+    <string-array name="harga_sawit">
+        <item>100.000/Kg </item>
+        <item>100.000/Kg </item>
+        <item>100.000/Kg </item>
+        <item>100.000/Kg </item>
+        <item>100.000/Kg </item>
+        <item>100.000/Kg </item>
+        <item>100.000/Kg </item>
+        <item>100.000/Kg </item>
+        <item>100.000/Kg </item>
+        <item>100.000/Kg </item>
+    </string-array>
+</resources>
